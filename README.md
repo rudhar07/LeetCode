@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0290-word-pattern](https://github.com/rudhar07/LeetCode/tree/master/0290-word-pattern) |
 | [0880-decoded-string-at-index](https://github.com/rudhar07/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0890-find-and-replace-pattern](https://github.com/rudhar07/LeetCode/tree/master/0890-find-and-replace-pattern) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rudhar07/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/rudhar07/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/rudhar07/LeetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/rudhar07/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-sort-array-by-parity](https://github.com/rudhar07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rudhar07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rudhar07/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rudhar07/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rudhar07/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rudhar07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
