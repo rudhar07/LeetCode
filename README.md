@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rudhar07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0667-beautiful-arrangement-ii](https://github.com/rudhar07/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0890-find-and-replace-pattern](https://github.com/rudhar07/LeetCode/tree/master/0890-find-and-replace-pattern) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rudhar07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/rudhar07/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rudhar07/LeetCode/tree/master/0229-majority-element-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/rudhar07/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rudhar07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Rolling Hash
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rudhar07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0890-find-and-replace-pattern](https://github.com/rudhar07/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rudhar07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
