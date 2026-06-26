@@ -199,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/rudhar07/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [1407-top-travellers](https://github.com/rudhar07/LeetCode/tree/master/1407-top-travellers) |
 <!---LeetCode Topics End-->
