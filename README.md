@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/rudhar07/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rudhar07/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rudhar07/LeetCode/tree/master/0342-power-of-four) |
 | [0667-beautiful-arrangement-ii](https://github.com/rudhar07/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0789-escape-the-ghosts](https://github.com/rudhar07/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rudhar07/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -276,9 +277,11 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/rudhar07/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rudhar07/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/rudhar07/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rudhar07/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/rudhar07/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
