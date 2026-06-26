@@ -203,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/rudhar07/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1148-article-views-i](https://github.com/rudhar07/LeetCode/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/rudhar07/LeetCode/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/rudhar07/LeetCode/tree/master/1341-movie-rating) |
 | [1407-top-travellers](https://github.com/rudhar07/LeetCode/tree/master/1407-top-travellers) |
 <!---LeetCode Topics End-->
