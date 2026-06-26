@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0667-beautiful-arrangement-ii](https://github.com/rudhar07/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0890-find-and-replace-pattern](https://github.com/rudhar07/LeetCode/tree/master/0890-find-and-replace-pattern) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/rudhar07/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/rudhar07/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/rudhar07/LeetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/rudhar07/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -89,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
