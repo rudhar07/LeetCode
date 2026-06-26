@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/rudhar07/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/rudhar07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/rudhar07/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/rudhar07/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/rudhar07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rudhar07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/rudhar07/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rudhar07/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/rudhar07/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/rudhar07/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/rudhar07/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rudhar07/LeetCode/tree/master/0326-power-of-three) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/rudhar07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/rudhar07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rudhar07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/rudhar07/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/rudhar07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rudhar07/LeetCode/tree/master/0344-reverse-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
