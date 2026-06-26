@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/rudhar07/LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/rudhar07/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/rudhar07/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/rudhar07/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/rudhar07/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/rudhar07/LeetCode/tree/master/0229-majority-element-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Two Pointers
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Simulation
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [1345-jump-game-iv](https://github.com/rudhar07/LeetCode/tree/master/1345-jump-game-iv) |
 ## Binary Tree
 |  |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/rudhar07/LeetCode/tree/master/0707-design-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
