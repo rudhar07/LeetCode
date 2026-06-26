@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/rudhar07/LeetCode/tree/master/0290-word-pattern) |
 | [0880-decoded-string-at-index](https://github.com/rudhar07/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0890-find-and-replace-pattern](https://github.com/rudhar07/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/rudhar07/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/rudhar07/LeetCode/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/rudhar07/LeetCode/tree/master/0290-word-pattern) |
 | [0890-find-and-replace-pattern](https://github.com/rudhar07/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rudhar07/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rudhar07/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
