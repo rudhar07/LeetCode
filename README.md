@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rudhar07/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/rudhar07/LeetCode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/rudhar07/LeetCode/tree/master/0292-nim-game) |
 | [0667-beautiful-arrangement-ii](https://github.com/rudhar07/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
