@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rudhar07/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/rudhar07/LeetCode/tree/master/0292-nim-game) |
 | [0667-beautiful-arrangement-ii](https://github.com/rudhar07/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0789-escape-the-ghosts](https://github.com/rudhar07/LeetCode/tree/master/0789-escape-the-ghosts) |
@@ -218,8 +219,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rudhar07/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rudhar07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
