@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0789-escape-the-ghosts](https://github.com/rudhar07/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [0890-find-and-replace-pattern](https://github.com/rudhar07/LeetCode/tree/master/0890-find-and-replace-pattern) |
+| [0905-sort-array-by-parity](https://github.com/rudhar07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/rudhar07/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudhar07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/rudhar07/LeetCode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/rudhar07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0905-sort-array-by-parity](https://github.com/rudhar07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/rudhar07/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/rudhar07/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/rudhar07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/rudhar07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0905-sort-array-by-parity](https://github.com/rudhar07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rudhar07/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rudhar07/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
