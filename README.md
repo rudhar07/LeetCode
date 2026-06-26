@@ -59,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0667-beautiful-arrangement-ii](https://github.com/rudhar07/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/rudhar07/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
