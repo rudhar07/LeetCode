@@ -103,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Two Pointers
 |  |
@@ -157,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
