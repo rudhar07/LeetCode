@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/rudhar07/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/rudhar07/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/rudhar07/LeetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/rudhar07/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rudhar07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/rudhar07/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/rudhar07/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/rudhar07/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rudhar07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
