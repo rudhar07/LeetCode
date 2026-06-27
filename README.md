@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/rudhar07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/rudhar07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0667-beautiful-arrangement-ii](https://github.com/rudhar07/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/rudhar07/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudhar07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rudhar07/LeetCode/tree/master/0229-majority-element-ii) |
+| [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/rudhar07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudhar07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/rudhar07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/rudhar07/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rudhar07/LeetCode/tree/master/0344-reverse-string) |
+| [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/rudhar07/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/rudhar07/LeetCode/tree/master/0709-to-lower-case) |
 | [0880-decoded-string-at-index](https://github.com/rudhar07/LeetCode/tree/master/0880-decoded-string-at-index) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0292-nim-game](https://github.com/rudhar07/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rudhar07/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rudhar07/LeetCode/tree/master/0342-power-of-four) |
+| [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0667-beautiful-arrangement-ii](https://github.com/rudhar07/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0789-escape-the-ghosts](https://github.com/rudhar07/LeetCode/tree/master/0789-escape-the-ghosts) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rudhar07/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
