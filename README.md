@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1280-students-and-examinations](https://github.com/rudhar07/LeetCode/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/rudhar07/LeetCode/tree/master/1341-movie-rating) |
 | [1407-top-travellers](https://github.com/rudhar07/LeetCode/tree/master/1407-top-travellers) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rudhar07/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Recursion
 |  |
 | ------- |
