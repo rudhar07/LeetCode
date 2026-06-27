@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/rudhar07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0667-beautiful-arrangement-ii](https://github.com/rudhar07/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/rudhar07/LeetCode/tree/master/0704-binary-search) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudhar07/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/rudhar07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/rudhar07/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudhar07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/rudhar07/LeetCode/tree/master/1871-jump-game-vii) |
