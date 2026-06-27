@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2180-count-integers-with-even-digit-sum](https://github.com/rudhar07/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/rudhar07/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/rudhar07/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Tree
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/rudhar07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rudhar07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/rudhar07/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
