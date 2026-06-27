@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rudhar07/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rudhar07/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rudhar07/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2540-minimum-common-value](https://github.com/rudhar07/LeetCode/tree/master/2540-minimum-common-value) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/rudhar07/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2784-check-if-array-is-good](https://github.com/rudhar07/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rudhar07/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rudhar07/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rudhar07/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rudhar07/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2540-minimum-common-value](https://github.com/rudhar07/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/rudhar07/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rudhar07/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rudhar07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rudhar07/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rudhar07/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rudhar07/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/rudhar07/LeetCode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rudhar07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rudhar07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2540-minimum-common-value](https://github.com/rudhar07/LeetCode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rudhar07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/rudhar07/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Heap (Priority Queue)
