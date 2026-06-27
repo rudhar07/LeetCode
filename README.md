@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rudhar07/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rudhar07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/rudhar07/LeetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rudhar07/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/rudhar07/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/rudhar07/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rudhar07/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2430-maximum-deletions-on-a-string](https://github.com/rudhar07/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/rudhar07/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/rudhar07/LeetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rudhar07/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/rudhar07/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3612-process-string-with-special-operations-i](https://github.com/rudhar07/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rudhar07/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2784-check-if-array-is-good](https://github.com/rudhar07/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rudhar07/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rudhar07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rudhar07/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rudhar07/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rudhar07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -400,5 +403,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/rudhar07/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/rudhar07/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
