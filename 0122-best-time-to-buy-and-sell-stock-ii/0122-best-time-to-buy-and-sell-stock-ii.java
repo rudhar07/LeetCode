@@ -1,0 +1,13 @@
+class Solution {
+    public int maxProfit(int[] prices) {
+        int n=prices.length;
+        int hold=-prices[0];
+        int cash=0;
+        for(int i=1;i<n;i++){
+            int pre_cash=cash;
+            cash=Math.max(cash, hold+prices[i]);
+            hold=Math.max(hold, pre_cash-prices[i]);
+        }
+        return cash;
+    }
+}
