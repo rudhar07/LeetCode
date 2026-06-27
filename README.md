@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rudhar07/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2540-minimum-common-value](https://github.com/rudhar07/LeetCode/tree/master/2540-minimum-common-value) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/rudhar07/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/rudhar07/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rudhar07/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rudhar07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rudhar07/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rudhar07/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2540-minimum-common-value](https://github.com/rudhar07/LeetCode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/rudhar07/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rudhar07/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rudhar07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rudhar07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rudhar07/LeetCode/tree/master/0342-power-of-four) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Design
 |  |
 | ------- |
