@@ -185,11 +185,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rudhar07/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rudhar07/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -281,12 +283,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rudhar07/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [1345-jump-game-iv](https://github.com/rudhar07/LeetCode/tree/master/1345-jump-game-iv) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rudhar07/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 ## Brainteaser
 |  |
