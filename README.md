@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1345-jump-game-iv](https://github.com/rudhar07/LeetCode/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rudhar07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/rudhar07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rudhar07/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/rudhar07/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rudhar07/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/rudhar07/LeetCode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/rudhar07/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudhar07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/rudhar07/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rudhar07/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rudhar07/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/rudhar07/LeetCode/tree/master/1732-find-the-highest-altitude) |
