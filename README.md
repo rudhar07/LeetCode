@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Rolling Hash
 |  |
 | ------- |
+| [2430-maximum-deletions-on-a-string](https://github.com/rudhar07/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/rudhar07/LeetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## String Matching
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0890-find-and-replace-pattern](https://github.com/rudhar07/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/rudhar07/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rudhar07/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2430-maximum-deletions-on-a-string](https://github.com/rudhar07/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/rudhar07/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/rudhar07/LeetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/rudhar07/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 |  |
 | ------- |
+| [2430-maximum-deletions-on-a-string](https://github.com/rudhar07/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/rudhar07/LeetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Table
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/rudhar07/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2430-maximum-deletions-on-a-string](https://github.com/rudhar07/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
