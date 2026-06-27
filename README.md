@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/rudhar07/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/rudhar07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/rudhar07/LeetCode/tree/master/0704-binary-search) |
@@ -350,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudhar07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rudhar07/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
