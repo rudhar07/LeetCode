@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/rudhar07/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rudhar07/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rudhar07/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/rudhar07/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rudhar07/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/rudhar07/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/rudhar07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rudhar07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rudhar07/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rudhar07/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rudhar07/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rudhar07/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/rudhar07/LeetCode/tree/master/0278-first-bad-version) |
