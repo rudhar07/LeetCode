@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/rudhar07/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rudhar07/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/rudhar07/LeetCode/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rudhar07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/rudhar07/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rudhar07/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/rudhar07/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rudhar07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rudhar07/LeetCode/tree/master/0342-power-of-four) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/rudhar07/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rudhar07/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/rudhar07/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/rudhar07/LeetCode/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |
