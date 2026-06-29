@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/rudhar07/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/rudhar07/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/rudhar07/LeetCode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rudhar07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/rudhar07/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/rudhar07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rudhar07/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rudhar07/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/rudhar07/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rudhar07/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/rudhar07/LeetCode/tree/master/0264-ugly-number-ii) |
