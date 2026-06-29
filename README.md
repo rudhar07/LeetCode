@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/rudhar07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/rudhar07/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rudhar07/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/rudhar07/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/rudhar07/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rudhar07/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [1306-jump-game-iii](https://github.com/rudhar07/LeetCode/tree/master/1306-jump-game-iii) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rudhar07/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0279-perfect-squares](https://github.com/rudhar07/LeetCode/tree/master/0279-perfect-squares) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/rudhar07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/rudhar07/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rudhar07/LeetCode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 ## Brainteaser
 |  |
