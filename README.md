@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/rudhar07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rudhar07/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/rudhar07/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/rudhar07/LeetCode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rudhar07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
@@ -506,4 +507,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/rudhar07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/rudhar07/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/rudhar07/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
