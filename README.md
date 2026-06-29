@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/rudhar07/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rudhar07/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rudhar07/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/rudhar07/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/rudhar07/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/rudhar07/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rudhar07/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/rudhar07/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/rudhar07/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rudhar07/LeetCode/tree/master/0326-power-of-three) |
