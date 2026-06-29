@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/rudhar07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudhar07/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rudhar07/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rudhar07/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/rudhar07/LeetCode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/rudhar07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rudhar07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/rudhar07/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/rudhar07/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rudhar07/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rudhar07/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/rudhar07/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/rudhar07/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rudhar07/LeetCode/tree/master/0067-add-binary) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rudhar07/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/rudhar07/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3271-hash-divided-string](https://github.com/rudhar07/LeetCode/tree/master/3271-hash-divided-string) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rudhar07/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rudhar07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rudhar07/LeetCode/tree/master/0342-power-of-four) |
