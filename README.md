@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/rudhar07/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/rudhar07/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rudhar07/LeetCode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rudhar07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/rudhar07/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/rudhar07/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/rudhar07/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/rudhar07/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/rudhar07/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/rudhar07/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rudhar07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/rudhar07/LeetCode/tree/master/0290-word-pattern) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rudhar07/LeetCode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/rudhar07/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/rudhar07/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/rudhar07/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Simulation
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/rudhar07/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/rudhar07/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rudhar07/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rudhar07/LeetCode/tree/master/0079-word-search) |
 ## Memoization
 |  |
 | ------- |
