@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/rudhar07/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rudhar07/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rudhar07/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rudhar07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rudhar07/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/rudhar07/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/rudhar07/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rudhar07/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/rudhar07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rudhar07/LeetCode/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rudhar07/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/rudhar07/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -521,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/rudhar07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/rudhar07/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rudhar07/LeetCode/tree/master/0051-n-queens) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rudhar07/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
