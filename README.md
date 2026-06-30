@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rudhar07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rudhar07/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/rudhar07/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rudhar07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rudhar07/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/rudhar07/LeetCode/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Two Pointers
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rudhar07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rudhar07/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
