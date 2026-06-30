@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/rudhar07/LeetCode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/rudhar07/LeetCode/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/rudhar07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/rudhar07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0312-burst-balloons](https://github.com/rudhar07/LeetCode/tree/master/0312-burst-balloons) |
 | [0392-is-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/rudhar07/LeetCode/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/rudhar07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1340-jump-game-v](https://github.com/rudhar07/LeetCode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/rudhar07/LeetCode/tree/master/1871-jump-game-vii) |
