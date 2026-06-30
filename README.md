@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0334-increasing-triplet-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/rudhar07/LeetCode/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/rudhar07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/rudhar07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/rudhar07/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rudhar07/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/rudhar07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0905-sort-array-by-parity](https://github.com/rudhar07/LeetCode/tree/master/0905-sort-array-by-parity) |
