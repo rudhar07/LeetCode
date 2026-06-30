@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/rudhar07/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rudhar07/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rudhar07/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/rudhar07/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/rudhar07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/rudhar07/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/rudhar07/LeetCode/tree/master/0290-word-pattern) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/rudhar07/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/rudhar07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/rudhar07/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rudhar07/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rudhar07/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/rudhar07/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/rudhar07/LeetCode/tree/master/0279-perfect-squares) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/rudhar07/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rudhar07/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/rudhar07/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rudhar07/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/rudhar07/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rudhar07/LeetCode/tree/master/0344-reverse-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
