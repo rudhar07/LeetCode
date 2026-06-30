@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/rudhar07/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rudhar07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rudhar07/LeetCode/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rudhar07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1306-jump-game-iii](https://github.com/rudhar07/LeetCode/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Two Pointers
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/rudhar07/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rudhar07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Brainteaser
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/rudhar07/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/rudhar07/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/rudhar07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Number Theory
 |  |
 | ------- |
