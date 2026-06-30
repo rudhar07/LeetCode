@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0880-decoded-string-at-index](https://github.com/rudhar07/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0890-find-and-replace-pattern](https://github.com/rudhar07/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/rudhar07/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rudhar07/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rudhar07/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1871-jump-game-vii](https://github.com/rudhar07/LeetCode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rudhar07/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/rudhar07/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1345-jump-game-iv](https://github.com/rudhar07/LeetCode/tree/master/1345-jump-game-iv) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rudhar07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rudhar07/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/rudhar07/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rudhar07/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rudhar07/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/rudhar07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/rudhar07/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudhar07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rudhar07/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/rudhar07/LeetCode/tree/master/1871-jump-game-vii) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rudhar07/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rudhar07/LeetCode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
