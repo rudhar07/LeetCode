@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0414-third-maximum-number](https://github.com/rudhar07/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/rudhar07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rudhar07/LeetCode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/rudhar07/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/rudhar07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
