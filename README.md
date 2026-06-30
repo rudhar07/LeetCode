@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/rudhar07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/rudhar07/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rudhar07/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/rudhar07/LeetCode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/rudhar07/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/rudhar07/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/rudhar07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rudhar07/LeetCode/tree/master/0494-target-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1340-jump-game-v](https://github.com/rudhar07/LeetCode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/rudhar07/LeetCode/tree/master/1871-jump-game-vii) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/rudhar07/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rudhar07/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rudhar07/LeetCode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/rudhar07/LeetCode/tree/master/0494-target-sum) |
 ## Memoization
 |  |
 | ------- |
