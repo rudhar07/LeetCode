@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/rudhar07/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rudhar07/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rudhar07/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/rudhar07/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudhar07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rudhar07/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rudhar07/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/rudhar07/LeetCode/tree/master/0200-number-of-islands) |
 | [1306-jump-game-iii](https://github.com/rudhar07/LeetCode/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Two Pointers
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/rudhar07/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/rudhar07/LeetCode/tree/master/0200-number-of-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Simulation
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudhar07/LeetCode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/rudhar07/LeetCode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/rudhar07/LeetCode/tree/master/0279-perfect-squares) |
 | [1306-jump-game-iii](https://github.com/rudhar07/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/rudhar07/LeetCode/tree/master/1345-jump-game-iv) |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/rudhar07/LeetCode/tree/master/0200-number-of-islands) |
 ## Concurrency
 |  |
 | ------- |
