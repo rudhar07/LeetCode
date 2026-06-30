@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rudhar07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rudhar07/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/rudhar07/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rudhar07/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rudhar07/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rudhar07/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/rudhar07/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [1306-jump-game-iii](https://github.com/rudhar07/LeetCode/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Two Pointers
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/rudhar07/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rudhar07/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/rudhar07/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/rudhar07/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0880-decoded-string-at-index](https://github.com/rudhar07/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rudhar07/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rudhar07/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/rudhar07/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/rudhar07/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0707-design-linked-list](https://github.com/rudhar07/LeetCode/tree/master/0707-design-linked-list) |
 ## Union-Find
 |  |
@@ -646,4 +650,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rudhar07/LeetCode/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/rudhar07/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/rudhar07/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
