@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/rudhar07/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rudhar07/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/rudhar07/LeetCode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/rudhar07/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/rudhar07/LeetCode/tree/master/0709-to-lower-case) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/rudhar07/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rudhar07/LeetCode/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/rudhar07/LeetCode/tree/master/0396-rotate-function) |
+| [0415-add-strings](https://github.com/rudhar07/LeetCode/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0667-beautiful-arrangement-ii](https://github.com/rudhar07/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0789-escape-the-ghosts](https://github.com/rudhar07/LeetCode/tree/master/0789-escape-the-ghosts) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rudhar07/LeetCode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/rudhar07/LeetCode/tree/master/0415-add-strings) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rudhar07/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/rudhar07/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3271-hash-divided-string](https://github.com/rudhar07/LeetCode/tree/master/3271-hash-divided-string) |
