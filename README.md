@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3093-longest-common-suffix-queries](https://github.com/rudhar07/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/rudhar07/LeetCode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rudhar07/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/rudhar07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rudhar07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rudhar07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rudhar07/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/rudhar07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/rudhar07/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/rudhar07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rudhar07/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Matrix
 |  |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rudhar07/LeetCode/tree/master/0200-number-of-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/rudhar07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/rudhar07/LeetCode/tree/master/0279-perfect-squares) |
 | [1306-jump-game-iii](https://github.com/rudhar07/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/rudhar07/LeetCode/tree/master/1345-jump-game-iv) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/rudhar07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -693,4 +697,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/rudhar07/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/rudhar07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/rudhar07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
