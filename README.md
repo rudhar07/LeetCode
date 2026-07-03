@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/rudhar07/LeetCode/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/rudhar07/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rudhar07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rudhar07/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rudhar07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/rudhar07/LeetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/rudhar07/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/rudhar07/LeetCode/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rudhar07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rudhar07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/rudhar07/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Heap (Priority Queue)
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/rudhar07/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/rudhar07/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rudhar07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rudhar07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rudhar07/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Matrix
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rudhar07/LeetCode/tree/master/0200-number-of-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rudhar07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rudhar07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/rudhar07/LeetCode/tree/master/0279-perfect-squares) |
 | [1306-jump-game-iii](https://github.com/rudhar07/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/rudhar07/LeetCode/tree/master/1345-jump-game-iv) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rudhar07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rudhar07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
@@ -634,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rudhar07/LeetCode/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rudhar07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Concurrency
 |  |
 | ------- |
