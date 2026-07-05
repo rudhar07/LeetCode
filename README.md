@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/rudhar07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/rudhar07/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rudhar07/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1301-number-of-paths-with-max-score](https://github.com/rudhar07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/rudhar07/LeetCode/tree/master/1306-jump-game-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/rudhar07/LeetCode/tree/master/1340-jump-game-v) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/rudhar07/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rudhar07/LeetCode/tree/master/0200-number-of-islands) |
+| [1301-number-of-paths-with-max-score](https://github.com/rudhar07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rudhar07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/rudhar07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/rudhar07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rudhar07/LeetCode/tree/master/0494-target-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/rudhar07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/rudhar07/LeetCode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/rudhar07/LeetCode/tree/master/1871-jump-game-vii) |
 | [2430-maximum-deletions-on-a-string](https://github.com/rudhar07/LeetCode/tree/master/2430-maximum-deletions-on-a-string) |
