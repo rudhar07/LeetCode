@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0890-find-and-replace-pattern](https://github.com/rudhar07/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/rudhar07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/rudhar07/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0946-validate-stack-sequences](https://github.com/rudhar07/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudhar07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudhar07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/rudhar07/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0341-flatten-nested-list-iterator](https://github.com/rudhar07/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rudhar07/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0880-decoded-string-at-index](https://github.com/rudhar07/LeetCode/tree/master/0880-decoded-string-at-index) |
+| [0946-validate-stack-sequences](https://github.com/rudhar07/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rudhar07/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/rudhar07/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/rudhar07/LeetCode/tree/master/0415-add-strings) |
+| [0946-validate-stack-sequences](https://github.com/rudhar07/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rudhar07/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/rudhar07/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3271-hash-divided-string](https://github.com/rudhar07/LeetCode/tree/master/3271-hash-divided-string) |
