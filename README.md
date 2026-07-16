@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3691-maximum-total-subarray-value-ii](https://github.com/rudhar07/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rudhar07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/rudhar07/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudhar07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/rudhar07/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rudhar07/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/rudhar07/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rudhar07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudhar07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rudhar07/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rudhar07/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rudhar07/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudhar07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/rudhar07/LeetCode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Tree
 |  |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rudhar07/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/rudhar07/LeetCode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rudhar07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudhar07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -506,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3612-process-string-with-special-operations-i](https://github.com/rudhar07/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rudhar07/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/rudhar07/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudhar07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/rudhar07/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
@@ -723,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/rudhar07/LeetCode/tree/master/0204-count-primes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rudhar07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rudhar07/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudhar07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
 | ------- |
