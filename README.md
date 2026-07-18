@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/rudhar07/LeetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rudhar07/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rudhar07/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/rudhar07/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/rudhar07/LeetCode/tree/master/0709-to-lower-case) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/rudhar07/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rudhar07/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/rudhar07/LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/rudhar07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/rudhar07/LeetCode/tree/master/1340-jump-game-v) |
