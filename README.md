@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0184-department-highest-salary](https://github.com/rudhar07/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/rudhar07/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/rudhar07/LeetCode/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/rudhar07/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0585-investments-in-2016](https://github.com/rudhar07/LeetCode/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/rudhar07/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/rudhar07/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
