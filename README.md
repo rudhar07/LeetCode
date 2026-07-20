@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/rudhar07/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudhar07/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/rudhar07/LeetCode/tree/master/1089-duplicate-zeros) |
+| [1260-shift-2d-grid](https://github.com/rudhar07/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rudhar07/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/rudhar07/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/rudhar07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/rudhar07/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/rudhar07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rudhar07/LeetCode/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/rudhar07/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/rudhar07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/rudhar07/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rudhar07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0415-add-strings](https://github.com/rudhar07/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/rudhar07/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0946-validate-stack-sequences](https://github.com/rudhar07/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1260-shift-2d-grid](https://github.com/rudhar07/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rudhar07/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/rudhar07/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3271-hash-divided-string](https://github.com/rudhar07/LeetCode/tree/master/3271-hash-divided-string) |
