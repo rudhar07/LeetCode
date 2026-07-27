@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rudhar07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rudhar07/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rudhar07/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rudhar07/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rudhar07/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rudhar07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/rudhar07/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3312-sorted-gcd-pair-queries](https://github.com/rudhar07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rudhar07/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rudhar07/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rudhar07/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/rudhar07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rudhar07/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rudhar07/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/rudhar07/LeetCode/tree/master/0342-power-of-four) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rudhar07/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rudhar07/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rudhar07/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/rudhar07/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Design
 |  |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1291-sequential-digits](https://github.com/rudhar07/LeetCode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rudhar07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rudhar07/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rudhar07/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Quickselect
 |  |
 | ------- |
