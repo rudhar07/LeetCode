@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/rudhar07/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rudhar07/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/rudhar07/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rudhar07/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rudhar07/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudhar07/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/rudhar07/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/rudhar07/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rudhar07/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rudhar07/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/rudhar07/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Rolling Hash
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3271-hash-divided-string](https://github.com/rudhar07/LeetCode/tree/master/3271-hash-divided-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rudhar07/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rudhar07/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/rudhar07/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/rudhar07/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/rudhar07/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rudhar07/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
