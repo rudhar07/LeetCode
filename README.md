@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/rudhar07/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rudhar07/LeetCode/tree/master/0724-find-pivot-index) |
 | [0789-escape-the-ghosts](https://github.com/rudhar07/LeetCode/tree/master/0789-escape-the-ghosts) |
+| [0877-stone-game](https://github.com/rudhar07/LeetCode/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/rudhar07/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/rudhar07/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/rudhar07/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/rudhar07/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0667-beautiful-arrangement-ii](https://github.com/rudhar07/LeetCode/tree/master/0667-beautiful-arrangement-ii) |
 | [0789-escape-the-ghosts](https://github.com/rudhar07/LeetCode/tree/master/0789-escape-the-ghosts) |
+| [0877-stone-game](https://github.com/rudhar07/LeetCode/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rudhar07/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/rudhar07/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rudhar07/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rudhar07/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhar07/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0877-stone-game](https://github.com/rudhar07/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/rudhar07/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/rudhar07/LeetCode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/rudhar07/LeetCode/tree/master/1871-jump-game-vii) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rudhar07/LeetCode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/rudhar07/LeetCode/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
